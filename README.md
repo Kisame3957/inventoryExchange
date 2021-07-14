@@ -1,1 +1,2 @@
 # inventoryExchange
+インベントリのアイテムのセーブやロードができるSpigotのPluginです
