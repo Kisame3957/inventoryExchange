@@ -1,0 +1,10 @@
+name: InventoryEx
+version: ${project.version}
+main: inventoryex.InventoryEx
+api-version: 1.17
+
+commands:
+  inventoryex:
+    description: inventryEx Command
+    usage: /inventryex(ie) <command>
+    aliases: ie
